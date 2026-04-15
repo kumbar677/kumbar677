@@ -19,22 +19,22 @@
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%" height="8px">
 </p>
 
 ---
 
 ### ⚡ The Blueprint
 
-I am a **Technical Architect** in the making, currently **orchestrating my MCA**. My work focuses on bridging the gap between human intent and machine execution through high-precision Prompt Engineering and scalable Web Systems.
+I am a **Technical Architect** in the making, currently **orchestrating my MCA**. My work focuses on bridging the gap between human intent and machine execution through high-precision Prompt Engineering.
 
 * 🔭 **Current Mission:** Engineering high-fidelity interactions with **LLMs** to maximize output quality.
-* 🌱 **Skill Evolution:** Developing modern web interfaces while exploring the frontiers of **Generative AI**.
-* 💬 **Ask me about:** React, Prompt Design, or why clean code is non-negotiable.
+* 🌱 **Skill Evolution:** Navigating modern web architecture while exploring the frontiers of **Generative AI**.
+* 💬 **Ask me about:** React, Prompt Design, or clean code architecture.
 * 📍 **Location:** India 🇮🇳
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%" height="8px">
 </p>
 
 ---
@@ -46,7 +46,7 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%" height="8px">
 </p>
 
 ---
@@ -63,17 +63,13 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%" height="8px">
 </p>
 
 ---
 
-### 📜 Daily Insight
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<p align="center">
   <br />
-  <img src="https://komarev.com/ghpvc/?username=kumbar677&label=SYSTEM%20ACCESSES&color=00b4d8&style=flat-square" />
-</p>
+  <code>SYSTEM ACCESSES:</code> <img src="https://komarev.com/ghpvc/?username=kumbar677&label=&color=00b4d8&style=flat-square" />
+</div>
