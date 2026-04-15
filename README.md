@@ -5,6 +5,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Prompt+Architect;MCA+Scholar;LLM+Optimization+Specialist" alt="Typing SVG" />
   </h1>
   
+  <img src="https://svg-banners.vercel.app/api?type=wave&theme=ocean&height=100&width=1400" width="100%"/>
+
   <p align="center">
     <a href="https://linkedin.com/in/iranna-kumbar-b15758310" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -25,9 +27,11 @@
 I am a **Technical Architect** in the making, currently **orchestrating my MCA**. My work focuses on bridging the gap between human intent and machine execution through high-precision Prompt Engineering and scalable Web Systems.
 
 * 🔭 **Current Mission:** Engineering high-fidelity interactions with **LLMs** to maximize output quality, accuracy, and relevance.
-* 🌱 **Skill Evolution:** Developing modern web interfaces while exploring the frontiers of **Generative AI**.
+* 🌱 **Skill Evolution:** Navigating modern web architecture while exploring the frontiers of **Generative AI**.
 * 💬 **Ask me about:** React, Prompt Design, or why clean code is non-negotiable.
 * 📍 **Location:** India 🇮🇳
+
+<img src="https://svg-banners.vercel.app/api?type=wave&theme=ocean&height=100&width=1400" width="100%"/>
 
 ---
 
@@ -36,6 +40,8 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,mysql,github,vscode&perline=10" />
 </div>
+
+<img src="https://svg-banners.vercel.app/api?type=wave&theme=ocean&height=100&width=1400" width="100%"/>
 
 ---
 
@@ -49,6 +55,8 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumbar677&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </div>
+
+<img src="https://svg-banners.vercel.app/api?type=wave&theme=ocean&height=100&width=1400" width="100%"/>
 
 ---
 
