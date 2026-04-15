@@ -12,9 +12,6 @@
     <a href="mailto:ikumbar59@gmaiil.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://github.com/kumbar677">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
   </p>
 </div>
 
@@ -23,39 +20,34 @@
 ---
 
 ### ⚡ The Blueprint
+I am a **Technical Architect** currently **orchestrating my MCA**. My focus is bridging human intent and machine execution via high-precision Prompt Engineering.
 
-I am a **Technical Architect** in the making, currently **orchestrating my MCA**. My work focuses on bridging the gap between human intent and machine execution through high-precision **Prompt Engineering**.
-
-* 🔭 **Current Mission:** Engineering high-fidelity interactions with **LLMs** to maximize output quality.
-* 🌱 **Skill Evolution:** Navigating modern web architecture while exploring the frontiers of **Generative AI**.
-* 💬 **Ask me about:** React, Prompt Design, or clean code architecture.
+* 🔭 **Current Mission:** Engineering high-fidelity interactions with **LLMs**.
+* 🌱 **Skill Evolution:** Navigating modern web architecture and **Generative AI**.
 * 📍 **Location:** India 🇮🇳
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%" height="3px">
 
 ---
 
-### 🛠️ Specialized Arsenal (Animated Entry)
+### 🛠️ Specialized Arsenal (Animated Logos)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,mysql,github,vscode&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,mysql,github,vscode&theme=dark" />
+  </a>
   <br/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="20px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumbar677&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%" height="3px">
 
 ---
 
 ### 📊 Engineering Metrics
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kumbar677&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="190" />
-  
   <br/><br/>
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumbar677&theme=tokyo-night&area=true&hide_border=true&bg_color=00000000" width="100%" />
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%" height="3px">
 
 ---
 
