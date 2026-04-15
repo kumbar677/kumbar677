@@ -18,7 +18,7 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
 
 ---
 
-### 🛠️ Specialized Arsenal (Hover-ready Icons)
+### 🛠️ Specialized Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,nodejs,express,mongodb,mysql,postman,git,github,vscode,docker&perline=7" />
@@ -26,7 +26,7 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
 
 ---
 
-### 📊 Engineering Metrics & Activity Snake
+### 📊 Real-Time Performance Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kumbar677&show_icons=true&theme=tokyonight&border_radius=10" height="190" />
@@ -34,11 +34,7 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
   
   <br/><br/>
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumbar677/kumbar677/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumbar677/kumbar677/output/github-contribution-grid-snake-light.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kumbar677/kumbar677/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumbar677&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
