@@ -35,12 +35,10 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
 
 ---
 
-### 🛠️ Specialized Arsenal
+### 🛠️ Specialized Arsenal (Animated Grid)
 
 <div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,mysql,github,vscode&perline=10" />
-  </marquee>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,mysql,github,vscode&perline=5" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%" height="3px">
