@@ -4,6 +4,18 @@
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Prompt+Architect;MCA+Scholar;LLM+Optimization+Specialist" alt="Typing SVG" />
   </h1>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/iranna-kumbar-b15758310" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:ikumbar59@gmaiil.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/kumbar677">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -12,8 +24,9 @@
 
 I am a **Technical Architect** in the making, currently **orchestrating my MCA**. My work focuses on bridging the gap between human intent and machine execution through high-precision Prompt Engineering and scalable Web Systems.
 
-* 🔭 **Current Mission:** Engineering high-fidelity interactions with **LLMs** to refine output accuracy.
-* 🌱 **Skill Evolution:** Mastering the **MERN Stack** while exploring the frontiers of **Agentic AI**.
+* 🔭 **Current Mission:** Engineering high-fidelity interactions with **LLMs** to maximize output quality, accuracy, and relevance.
+* 🌱 **Skill Evolution:** Developing modern web interfaces while exploring the frontiers of **Generative AI**.
+* 💬 **Ask me about:** React, Prompt Design, or why clean code is non-negotiable.
 * 📍 **Location:** India 🇮🇳
 
 ---
@@ -21,12 +34,12 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
 ### 🛠️ Specialized Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,nodejs,express,mongodb,mysql,postman,git,github,vscode,docker&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,mysql,github,vscode&perline=10" />
 </div>
 
 ---
 
-### 📊 Real-Time Performance Metrics
+### 📊 Engineering Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kumbar677&show_icons=true&theme=tokyonight&border_radius=10" height="190" />
@@ -39,23 +52,12 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
 
 ---
 
-### 🌐 Connectivity Matrix
-
-<div align="center">
-  <a href="https://linkedin.com/in/iranna-kumbar-b15758310" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ikumbar59@gmaiil.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br />
-
+### 📜 Daily Insight
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 <p align="center">
+  <br />
   <img src="https://komarev.com/ghpvc/?username=kumbar677&label=SYSTEM%20ACCESSES&color=00b4d8&style=flat-square" />
 </p>
