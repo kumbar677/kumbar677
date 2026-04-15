@@ -18,9 +18,9 @@
   </p>
 </div>
 
-<div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&theme=fluorescent&height=15&width=1000&color=gradient" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://kodinger-gndu.github.io/Motivator-Quotes/Horizontal_Line.gif" width="100%" height="10px">
+</p>
 
 ---
 
@@ -28,14 +28,14 @@
 
 I am a **Technical Architect** in the making, currently **orchestrating my MCA**. My work focuses on bridging the gap between human intent and machine execution through high-precision Prompt Engineering and scalable Web Systems.
 
-* 🔭 **Current Mission:** Engineering high-fidelity interactions with **LLMs** to maximize output quality, accuracy, and relevance.
+* 🔭 **Current Mission:** Engineering high-fidelity interactions with **LLMs** to maximize output quality.
 * 🌱 **Skill Evolution:** Developing modern web interfaces while exploring the frontiers of **Generative AI**.
 * 💬 **Ask me about:** React, Prompt Design, or why clean code is non-negotiable.
 * 📍 **Location:** India 🇮🇳
 
-<div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&theme=fluorescent&height=15&width=1000&color=gradient" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://kodinger-gndu.github.io/Motivator-Quotes/Horizontal_Line.gif" width="100%" height="10px">
+</p>
 
 ---
 
@@ -45,9 +45,9 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,mysql,github,vscode&perline=10" />
 </div>
 
-<div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&theme=fluorescent&height=15&width=1000&color=gradient" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://kodinger-gndu.github.io/Motivator-Quotes/Horizontal_Line.gif" width="100%" height="10px">
+</p>
 
 ---
 
@@ -62,9 +62,9 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumbar677&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&theme=fluorescent&height=15&width=1000&color=gradient" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://kodinger-gndu.github.io/Motivator-Quotes/Horizontal_Line.gif" width="100%" height="10px">
+</p>
 
 ---
 
