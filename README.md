@@ -39,9 +39,9 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,mysql,github,vscode&theme=dark" />
+  <br/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="20px">
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%" height="3px">
 
 ---
 
