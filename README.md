@@ -24,7 +24,7 @@
 
 ### ⚡ The Blueprint
 
-I am a **Technical Architect** in the making, currently **orchestrating my MCA**. My work focuses on bridging the gap between human intent and machine execution through high-precision Prompt Engineering.
+I am a **Technical Architect** in the making, currently **orchestrating my MCA**. My work focuses on bridging the gap between human intent and machine execution through high-precision **Prompt Engineering**.
 
 * 🔭 **Current Mission:** Engineering high-fidelity interactions with **LLMs** to maximize output quality.
 * 🌱 **Skill Evolution:** Navigating modern web architecture while exploring the frontiers of **Generative AI**.
@@ -35,12 +35,10 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
 
 ---
 
-### 🛠️ Specialized Arsenal (Animated Pulse)
+### 🛠️ Specialized Arsenal (Animated Entry)
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,mysql,github,vscode&theme=dark" />
-  <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9ueW55bnlueW55bnlueW55bnlueW55bnlueW55bnlueW55JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/vS38N0H7Iq6P0J9T7W/giphy.gif" width="50px">
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%" height="3px">
@@ -50,11 +48,11 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
 ### 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumbar677&show_icons=true&theme=tokyonight&border_radius=10" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kumbar677&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="190" />
   
   <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumbar677&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumbar677&theme=tokyo-night&area=true&hide_border=true&bg_color=00000000" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%" height="3px">
