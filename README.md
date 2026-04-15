@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <img src="https://kodinger-gndu.github.io/Motivator-Quotes/Horizontal_Line.gif" width="100%" height="10px">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%">
 </p>
 
 ---
@@ -34,7 +34,7 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
 * 📍 **Location:** India 🇮🇳
 
 <p align="center">
-  <img src="https://kodinger-gndu.github.io/Motivator-Quotes/Horizontal_Line.gif" width="100%" height="10px">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%">
 </p>
 
 ---
@@ -46,7 +46,7 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
 </div>
 
 <p align="center">
-  <img src="https://kodinger-gndu.github.io/Motivator-Quotes/Horizontal_Line.gif" width="100%" height="10px">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%">
 </p>
 
 ---
@@ -63,7 +63,7 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
 </div>
 
 <p align="center">
-  <img src="https://kodinger-gndu.github.io/Motivator-Quotes/Horizontal_Line.gif" width="100%" height="10px">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%">
 </p>
 
 ---
