@@ -18,7 +18,7 @@
   </p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="15px">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%" height="3px">
 
 ---
 
@@ -31,7 +31,7 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
 * 💬 **Ask me about:** React, Prompt Design, or clean code architecture.
 * 📍 **Location:** India 🇮🇳
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="15px">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%" height="3px">
 
 ---
 
@@ -41,7 +41,7 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,mysql,github,vscode&perline=10" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="15px">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%" height="3px">
 
 ---
 
@@ -56,7 +56,7 @@ I am a **Technical Architect** in the making, currently **orchestrating my MCA**
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumbar677&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="15px">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2a6419ce31.gif" width="100%" height="3px">
 
 ---
 
