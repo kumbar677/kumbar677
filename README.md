@@ -63,19 +63,19 @@ const iranna = {
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
-<br><sub><b>Java</b></sub>
+<br><sub><b>Node.js</b></sub>
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="48" height="48" />
-<br><sub><b>SQL</b></sub>
+<br><sub><b>MySQL</b></sub>
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-<br><sub><b>Docker</b></sub>
+<br><sub><b>Bootstrap</b></sub>
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
-<br><sub><b>AWS</b></sub>
+<br><sub><b>MongoDB</b></sub>
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
