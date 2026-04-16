@@ -112,4 +112,4 @@ If you're working on something exciting at the intersection of **AI + Web**, let
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:6e40c9&height=120&section=footer" width="100%"/>  in this code add aninination to langues logos and maje it horazental line inbetween and add smooth neon line in the hortiaxzzental color
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:6e40c9&height=120&section=footer" width="100%"/> 
