@@ -51,10 +51,38 @@ const iranna = {
 
 **Prompt & AI**
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+<br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+<br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+<br><sub><b>Java</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="48" height="48" />
+<br><sub><b>SQL</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+<br><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
+<br><sub><b>AWS</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+<br><sub><b>GitHub</b></sub>
+</td>
+</tr>
+</table>
 **Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
