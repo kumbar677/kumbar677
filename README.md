@@ -62,6 +62,14 @@ const iranna = {
 <br><sub><b>JavaScript</b></sub>
 </td>
 <td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" />
+<br><sub><b>React</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="48" height="48" />
+<br><sub><b>Vite</b></sub>
+</td>
+<td align="center" width="96">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
 <br><sub><b>Node.js</b></sub>
 </td>
@@ -80,6 +88,10 @@ const iranna = {
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
 <br><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
+<br><sub><b>VS Code</b></sub>
 </td>
 </tr>
 </table>
