@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:58a6ff&height=200&section=header&text=Iranna%20Kumbar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Prompt%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descColor=c3d3e8" width="100%"/>
 
@@ -216,3 +216,4 @@ $ seeking    →  internships, freelance work & open-source collaboration
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:6e40c9&height=120&section=footer" width="100%"/>
+**
