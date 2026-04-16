@@ -62,19 +62,19 @@ const iranna = {
 <br><sub><b>JavaScript</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
 <br><sub><b>Node.js</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="48" height="48" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
 <br><sub><b>MySQL</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" />
 <br><sub><b>Bootstrap</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />
 <br><sub><b>MongoDB</b></sub>
 </td>
 <td align="center" width="96">
@@ -83,7 +83,6 @@ const iranna = {
 </td>
 </tr>
 </table>
-**Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
