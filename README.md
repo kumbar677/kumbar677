@@ -20,13 +20,13 @@
 
 ```javascript
 const iranna = {
-  name      : "Iranna Kumbar",
-  education : "MCA — in pursuit (ongoing)",
-  focus     : ["Prompt Engineering", "Full Stack Web Development"],
-  llmGoal   : "Maximise output quality, accuracy & relevance of LLMs",
-  learning  : ["Advanced Prompting", "React", "Node.js", "REST APIs"],
-  location  : "India 🇮🇳",
-  status    : "open to internships & collaborations",
+  name      : "Iranna Kumbar",
+  education : "MCA — in pursuit (ongoing)",
+  focus     : ["Prompt Engineering", "Full Stack Web Development"],
+  llmGoal   : "Maximise output quality, accuracy & relevance of LLMs",
+  learning  : ["Advanced Prompting", "React", "Node.js", "REST APIs"],
+  location  : "India 🇮🇳",
+  status    : "open to internships & collaborations",
 };
 // always_learning: true
 ```
