@@ -107,42 +107,11 @@ const iranna = {
 ```md
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kumbar677&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumbar677&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=kumbar677&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumbar677&theme=tokyo-night" />
-
-</div>
+<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kumbar677&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumbar677&layout=compact&theme=tokyonight&hide_border=true"/> <br><br> <img src="https://streak-stats.demolab.com?user=kumbar677&theme=tokyonight&hide_border=true" /> <br><br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumbar677&theme=tokyo-night" /> </div>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kumbar677&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-## 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=kumbar677&style=for-the-badge&color=blueviolet" />
-
-</div>
-```
 
 
 ---
